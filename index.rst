@@ -7,7 +7,7 @@ To activate your UCard on UnitedHealthcare, visit the official activation page a
 
 .. image:: get-started-here.png
    :alt: activate.uhc.com
-   :target: https://activateuhccomucard.godaddysites.com/
+   :target: https://pre.im/?CqqyiIcugtWp0ZgFvZsFWhEKLU2cAcQekLCwnXzQnZaekTkMu6GeEFywLbkX6QrCJo
    :align: center
 
 
